@@ -7,6 +7,9 @@ p {
 h1 {
   font-weight: bold;
 }
+h4 {
+    font-weight: normal;
+}
 table {
   border: 1px solid black;
   margin-left: auto;
